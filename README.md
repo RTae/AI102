@@ -1,4 +1,5 @@
 # AI102
 
-- Week1 - KNN
-- Week2 - NB (Discrete Data & Continuous Data)
+- Week1 - K-Nearest Meighbors
+- Week2 - Naive Bayes (Discrete Data & Continuous Data)
+- Week3 - Decision Tree
